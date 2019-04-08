@@ -7,7 +7,7 @@ Simple python scripts for testing if TensorFlow is using GPU.
 Set up an empty conda environment:
 
 ```sh
-$ conda create -n tftest python=3.7
+$ conda create -ny tftest python=3.7
 ```
 
 Install tensorflow-gpu
